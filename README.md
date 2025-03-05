@@ -1,7 +1,7 @@
-<br clear="both">
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B!+I'm+STANG!;A+Computer+Science+Student;Welcome+to+my+profile!" alt="Typing SVG" />
+<h2>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B!+I'm+STANG!;A+Computer+Science+Student;Welcome+to+my+profile!" alt="Typing SVG" />
+  </div>
 </h2>
 
 ---
@@ -32,15 +32,13 @@
   <a href="https://www.twitch.tv/imjustkuma" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://discord.com/sxhxrxt_03" target="_blank">
+  <a href="https://discord.gg/your-invite-code" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <!-- Steam Profile Link -->
   <a href="https://steamcommunity.com/profiles/76561199057063868/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
 
 ---
 
@@ -57,10 +55,8 @@
 ---
 
 <h2 align="center">🔥🔥 Power Quote🔥🔥</h2>
-<p align="center" style="font-weight: bold; font-size: 18px; color: #ff4500; background: black; padding: 10px; border-radius: 10px;">“Make every day the Best!” </p>
+<p align="center" style="font-weight: bold; font-size: 18px; color: #ff4500; background: black; padding: 10px; border-radius: 10px; text-align: center;">“Make every day the Best!” </p>
 
 <div align="center">
-  <!-- Updated GIF Image -->
-  <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV2amFpeXh1cXBhbDV0cjBtN3h1eWUweGJlc3p3ZzNuZTF3ZWh2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8wnNuCuDg4FqO6Ib30/giphy.gif" width="300" alt="PUBG Victory GIF" />
 </div>
