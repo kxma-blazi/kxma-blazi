@@ -1,27 +1,31 @@
-<h2>
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B!+I'm+STANG!;A+Computer+Science+Student;Welcome+to+my+profile!" alt="Typing SVG" />
-  </div>
-</h2>
+## <h2 align="center">👋 Hi! I'm STANG!</h2>
 
----
-
-<div align="center" style="background: linear-gradient(135deg, #ff00ff, #800080, #ff4500); padding: 10px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kxma-blazi&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=kxma-blazi&theme=radical" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kxma-blazi&layout=compact&theme=radical" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B!+I'm+STANG!;A+Computer+Science+Student;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+## 🚀 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kxma-blazi&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=kxma-blazi&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kxma-blazi&layout=compact&theme=radical" height="150" alt="Most Used Languages" />
+</div>
+
+---
+
+## 🛠 Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,python,cpp,arduino,jupyter" height="50" alt="Tech Stack" />
 </div>
 
 ---
 
-<h1 align="center">📬 CONTACT ME</h1>
+## 📬 CONTACT ME
+
 <div align="center">
   <a href="https://www.youtube.com/@-kuma" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="35" />
@@ -42,19 +46,34 @@
 
 ---
 
+## 👀 Profile Views
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kxma-blazi/count.svg" alt="Profile Counter" />
+  <img src="https://komarev.com/ghpvc/?username=kxma-blazi&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kxma-blazi&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎮 Gaming PUBG SETTING 
 
 <div align="center">
   <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg" width="300" alt="PUBG Banner" />
 </div>
 
+<h2 align="center">mysetting <a href="https://specs.gg/kuma.exe/">https://specs.gg/kuma.exe/</a></h2>
+
 ---
 
-<h2 align="center">🔥🔥 Power Quote🔥🔥</h2>
+## 🔥🔥 Power Quote🔥🔥
+
 <p align="center" style="font-weight: bold; font-size: 18px; color: #ff4500; background: black; padding: 10px; border-radius: 10px; text-align: center;">“Make every day the Best!” </p>
 
 <div align="center">
