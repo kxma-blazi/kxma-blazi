@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kxma-blazi&theme=radical&no-frame=true&margin-w=5&column=6&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kxma-blazi&theme=radical&no-frame=true&margin-w=10&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Stars" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -60,18 +60,6 @@
 
 ---
 
-## 🎮 Gaming PUBG Setting 
-
-<div align="center">
-  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg" width="300" alt="PUBG Banner" />
-</div>
-
-<h2 align="center">
-  <a href="https://specs.gg/kuma.exe/" target="_blank">🔥 Check My PUBG Settings 🔥</a>
-</h2>
-
----
-
 ## 🔥🔥 Power Quote 🔥🔥
 
 <div align="center">
@@ -81,3 +69,54 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV2amFpeXh1cXBhbDV0cjBtN3h1eWUweGJlc3p3ZzNuZTF3ZWh2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8wnNuCuDg4FqO6Ib30/giphy.gif" width="300" alt="PUBG Victory GIF" />
 </div>
+
+---
+
+## 🎮 Gamer Zone: PUBG Player
+
+<div align="center">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg" width="500" alt="PUBG Banner" />
+</div>
+
+### 🔫 In-Game Roles
+- 🥷 Support / Entry Fragger
+- 🎯 DMR Specialist (Mini14 / SLR)
+- 🛡️ Support & Callout
+
+### 🔫 In-Game Roles
+
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/assault-rifle.png" width="30"/> Entry Fragger &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/hand.png" width="30"/> Support &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/compass.png" width="30"/> Support Scout
+</div>
+
+
+### 🖥️ Competitive Setup
+| Component        | Spec                           |
+|------------------|--------------------------------|
+| 🎮 Main PC       | Ryzen 7 9700X + RTX 3060 Ti    |
+| 🧠 RAM           | DDR5 4800 32GB |
+| 🔌 Power Supply  | 650W 80+ Bronze |
+| 🎧 Headset       | ROG Fusion II 300 |
+| 🖱️ Mouse          | Hitscan Hyper Light|
+| ⌨️ Keyboard      | Wooting 60 he+ |
+| ⌨️ Wooting code  |71df2b44acfd0dbb6eeffa7c503d7a58f8e3 |
+| 🎯 Monitor       | Zowie XL2540K 240Hz (1728x1080 for max FPS)  |
+
+
+### 🔥 Favorite Settings
+- Resolution: `1728x1080` (Stretched)
+- Sensitivity: Low DPI + High In-game Sens
+- Audio: Virtual 7.1 with ROG Fusion II → for footsteps & detail
+- Crosshair: Cyan / Green – dynamic off
+- [🔗 View Full Specs Here](https://specs.gg/kuma.exe/)
+
+<div align="center">
+  <img src="https://media.tenor.com/BnYkF-CQJXMAAAAC/pubg.gif" width="300" alt="PUBG Pro Gamer" />
+</div>
+
+
+
+---
+
