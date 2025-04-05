@@ -107,7 +107,7 @@
 
 ### 🔥 Favorite Settings
 - Resolution: `1728x1080` (Stretched)
-- Sensitivity: Low DPI + High In-game Sens
+- Sensitivity:  DPI 400 + Sens 46
 - Audio: Virtual 7.1 with ROG Fusion II → for footsteps & detail
 - Crosshair: Cyan / Green – dynamic off
 - [🔗 View Full Specs Here](https://specs.gg/kuma.exe/)
