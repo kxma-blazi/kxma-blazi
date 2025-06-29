@@ -102,7 +102,7 @@
 - 📐 **Resolution**: `1728x1080` (Stretched)
 - 🎯 **Sensitivity**: DPI 400 + Sens 46
 - 🎧 **Audio**: Virtual 7.1 (for footsteps precision)
-- 🎯 **Crosshair**: Cyan / Green — dynamic off  
+- 🎯 **Crosshair**: Cyan / Black — dynamic off  
 - [🔗 View Full Specs Here](https://specs.gg/kuma.exe/)
 
 <div align="center">
