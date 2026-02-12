@@ -87,7 +87,7 @@
 
 | 🔧 Component       | ⚡ Spec                         |
 |--------------------|--------------------------------|
-| 🎮 Main PC          | Ryzen 7 9700X + RTX 3060 Ti    |
+| 🎮 Main PC          | Ryzen 7 7800X3D + RTX 3060 Ti   |
 | 🧠 RAM              | DDR5 5200MHz 32GB              |
 | 🔌 Power Supply     | 850W 80+ Gold                |
 | 🎧 Headset          | ROG Fusion II 300              |
