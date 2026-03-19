@@ -4,7 +4,7 @@
 
 ---
 
-# 🤖 AI Automation Specialist N8N
+# 🤖 AI Automation Specialist N8N OR Etc.
 
 I build intelligent automation systems that integrate AI, APIs, and real-world workflows.
 
