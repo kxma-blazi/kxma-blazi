@@ -45,6 +45,7 @@ status    : ONLINE 24/7 ⚡
 arsenal:
   - n8n Workflow Engine
   - LLM / AI Integration
+  - GAS (Google AppScript)
   - Docker + VPS Infrastructure
   - Webhook Systems
   - API Orchestration
