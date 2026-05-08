@@ -1,209 +1,176 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff0000,100:000000&height=200&section=header&text=SAHARAT&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=AI%20AUTOMATION%20SPECIALIST&descSize=20&descAlignY=62&descColor=ff4444&animation=fadeIn"/>
+<!-- HEADER BANNER — capsule-render เสถียรมาก ใช้ได้เสมอ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e3a5f,100:38bdf8&height=220&section=header&text=SAHARAT+INTAVIRA&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%7C+AI+Automation+Specialist&descSize=18&descAlignY=62&descColor=38bdf8&animation=fadeIn"/>
 
-<!-- GLITCH TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%5BSYSTEM+ONLINE%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;DEPLOYING+%3E+AI+AUTOMATION+SYSTEMS...;%2F%2F+THE+EMPIRE+NEVER+SLEEPS+%F0%9F%94%B4" />
+<!-- TYPING SVG — เปลี่ยนจาก demolab → DenverCoder9 (เสถียรกว่า) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%5BSYSTEM+ONLINE%5D+Initializing+AI+Stack...;Deploying+%3A+n8n+%7C+Docker+%7C+Groq+AI+%7C+GAS;Automation+is+not+a+tool+it+is+a+mindset." />
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/be/f4/1a/bef41a4f8e7b2b6e87bd35f0ce41cfbc.gif" width="280"/>
-
-```
-██████████████████████████████████████████████████████
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-█░  "I find your lack of AUTOMATION disturbing."   ░█
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-██████████████████████████████████████████████████████
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- BADGES — shields.io เสถียรสุด -->
+![Profile Views](https://komarev.com/ghpvc/?username=kxma-blazi&style=flat-square&color=38bdf8&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/kxma-blazi?style=flat-square&color=38bdf8&labelColor=0f172a&label=Followers)](https://github.com/kxma-blazi)
+![Status](https://img.shields.io/badge/Status-Available%20for%20Work-34d399?style=flat-square&labelColor=0f172a)
 
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> WHO AM I
+## 🧠 WHO AM I
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4NTZmdGp5c2lqNXlqb3Z6c3ByeW9xMHhiNHF6dXI4azk5anZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="220"/>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4NTZmdGp5c2lqNXlqb3Z6c3ByeW9xMHhiNHF6dXI4azk5anZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 
 ```yaml
+# saharat.config.yaml
+
 identity:
-  name      : Saharat
-  alias     : kxma-blazi
-  class     : AI Automation Specialist
-  faction   : Dark Side Engineering 🔴
+  name     : Saharat Intavira (สหรัถ อินต๊ะวิรา)
+  alias    : kxma-blazi
+  location : Thailand 🇹🇭
+  class    : Full-Stack Developer & AI Automation Engineer
 
-mission   : "Automate Everything."
-status    : ONLINE 24/7 ⚡
+stack:
+  scripting  : [ JavaScript, Google Apps Script, Python, Bash ]
+  automation : [ n8n, Node-RED, Webhook Systems ]
+  ai_layer   : [ Groq API, OpenAI, Gemini, LLM Integration ]
+  infra      : [ Docker, Ubuntu Server, Nginx, Cloudflare Tunnel ]
+  comms      : [ Telegram Bot API, LINE API, Google Workspace ]
 
-arsenal:
-  - n8n Workflow Engine
-  - LLM / AI Integration
-  - GAS (Google AppScript)
-  - Docker + VPS Infrastructure
-  - Webhook Systems
-  - API Orchestration
+philosophy : |
+  Automate the repetitive.
+  Integrate the intelligent.
+  Own the infrastructure.
 
-philosophy: |
-  Automation > Manual
-  Intelligence > Repetition
-  Production > Prototype
+status     : 🟢 Available for opportunities
 ```
 
 <br clear="right"/>
 
 ---
 
-## ⚡ BATTLE WEAPONS
+## ⚡ TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,docker,linux,nginx,git,github,vscode&theme=dark&perline=8" />
+<!-- skillicons.dev เสถียรดี -->
+<img src="https://skillicons.dev/icons?i=js,python,bash,html,css&theme=dark&perline=5" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark&perline=6" />
 
 <br/><br/>
 
-| 🔴 AUTOMATION | 🤖 AI LAYER | 📡 COMMS | 🏗 INFRA |
+| 🤖 AI & APIs | ⚙️ Automation | 🏗️ Infrastructure | 🛠️ Dev Tools |
 |:---:|:---:|:---:|:---:|
-| ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| Workflow Engine | LLM APIs | Telegram Bot | VPS Production |
-| Webhook Systems | Prompt Eng. | LINE API | Nginx Proxy |
-| Real-Time Processing | AI Decision | Google Sheets | Linux Server |
+| Groq API | n8n Engine | Docker | Git / GitHub |
+| OpenAI / Gemini | Node-RED | Ubuntu Server | VS Code |
+| LLM Integration | Webhook Design | Nginx Reverse Proxy | GAS |
+| Telegram Bot | REST APIs | Cloudflare Tunnel | Google Workspace |
 
 </div>
 
 ---
 
-## 🏗 SYSTEM ARCHITECTURE
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+
+| Project | Description | Stack | Status |
+|:---|:---|:---|:---:|
+| 📊 **QAC & EHS Dashboard** | KPI safety & quality analytics via GAS serverless | GAS · Sheets · Charts.js | [![Live](https://img.shields.io/badge/-Live-34d399?style=flat-square)](https://script.google.com/macros/s/AKfycbz5hh3Hs1cFCx8mGDAhoT9rg9UHJCeySe1GMOkniFOTLgSXXus2VgVUqTVpe3QnTINJtQ/exec) |
+| 🤖 **SYS Stock Dashboard** | AI-driven stock management with Groq + Telegram alerts | GAS · Groq API · Telegram | ![Live](https://img.shields.io/badge/-Live-34d399?style=flat-square) |
+| 🐳 **Self-Hosted Automation** | Personal Ubuntu server running n8n, Docker, Cloudflare Tunnel | Docker · n8n · Nginx | ![Live](https://img.shields.io/badge/-Live-34d399?style=flat-square) |
+| ⚡ **AI Workflow Pipeline** | Multi-LLM agent pipelines for data processing & reporting | n8n · GPT · Groq · Python | ![WIP](https://img.shields.io/badge/-In%20Progress-fbbf24?style=flat-square) |
+
 </div>
+
+---
+
+## 🏗️ SYSTEM ARCHITECTURE
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║    🌐 USER ──► 🔐 HTTPS WEBHOOK ──► 🐳 DOCKER ENGINE     ║
-║                                            │              ║
-║                              ┌─────────────▼────────────┐ ║
-║                              │   🤖 AI PROCESSING        │ ║
-║                              │   LLM + Prompt Eng.       │ ║
-║                              └──────┬──────┬──────┬─────┘ ║
-║                                     │      │      │       ║
-║                              📊 Sheets  💬 Bot  🏢 ERP   ║
-║                                                           ║
-║     ✔ Real-Time  ✔ AI-Driven  ✔ Secure  ✔ Scalable       ║
-╚═══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                  AUTOMATION STACK                            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   🌐 Trigger          🔄 Processing          📤 Output       ║
+║   ──────────          ────────────          ────────         ║
+║   Webhook    ──►  🐳 Docker Engine  ──►   📊 Google Sheets  ║
+║   Telegram   ──►  ⚙️  n8n / GAS     ──►   💬 Telegram Bot  ║
+║   Schedule   ──►  🤖 Groq AI LLM   ──►   📧 Email Alert   ║
+║   Google     ──►  🔗 REST APIs      ──►   📱 LINE Notify   ║
+║              ──►  🐧 Ubuntu VPS     ──►   🗂️ Logging       ║
+║                                                              ║
+║   ✅ Real-Time   ✅ AI-Driven   ✅ Self-Hosted   ✅ Free      ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🚀 WHAT I DEPLOY
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**🤖 AI Systems**
-- Intelligent Chatbot Platforms
-- LLM-Powered Decision Engines
-- AI Text Parsing & Structured Output
-- Multi-Model Orchestration
-
-</td>
-<td width="50%">
-
-**⚙️ Automation**
-- End-to-End Workflow Automation
-- Real-Time Data Processing
-- Company System Integration
-- Enterprise Infrastructure
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 EMPIRE STATISTICS
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kxma-blazi&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff4444&text_color=ffffff" height="165"/>
-<img src="https://streak-stats.demolab.com?user=kxma-blazi&theme=dark&hide_border=true&background=0d0d0d&ring=FF0000&fire=FF4444&currStreakLabel=FF0000&sideLabels=ffffff" height="165"/>
+<!-- github-readme-stats — ใช้ vercel.app ตรง (official fork เสถียรสุด) -->
+<img src="https://github-readme-stats.vercel.app/api?username=kxma-blazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&ring_color=38bdf8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxma-blazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kxma-blazi&bg_color=0d0d0d&color=ff4444&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%"/>
+<!-- streak — เปลี่ยนจาก demolab → git.io/streak-stats (เสถียรกว่า) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kxma-blazi&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569" height="160"/>
+
+<br/>
+
+<!-- activity graph — github-readme-activity-graph เสถียร -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kxma-blazi&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=1e3a5f&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SYSTEM
+## 🐍 CONTRIBUTION GRID
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kxma-blazi/kxma-blazi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kxma-blazi/kxma-blazi/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/kxma-blazi/kxma-blazi/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kxma-blazi/kxma-blazi/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
 
+> **หมายเหตุ:** Snake animation ต้องตั้งค่า GitHub Actions ก่อนถึงจะแสดงผล — ดูวิธีด้านล่าง
+
 ---
 
-## 🔐 ENGINEERING CODE
+## 💡 ENGINEERING PRINCIPLES
 
 <div align="center">
 
-```
-██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ 
-██║ ██╔╝██║   ██║████╗ ████║██╔══██╗
-█████╔╝ ██║   ██║██╔████╔██║███████║
-██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║
-██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
-```
-
-| ⚡ | PRINCIPLE |
-|:---:|:---|
-| 🔴 | **Automation over Manual Work**  |
-| 🤖 | **Intelligence over Repetition** |
-| 🏗 | **Stability over Complexity**     |
-| 🔐 | **Own Your Infrastructure**      |
-| 🚀 | **Production-First Always**      |
+| | Principle | Application |
+|:---:|:---|:---|
+| ⚡ | **Automate the repetitive** | n8n workflows replace manual tasks |
+| 🤖 | **Intelligence over brute force** | LLM APIs for smart decisions |
+| 🏗️ | **Own your infrastructure** | Self-hosted > SaaS dependency |
+| 🔗 | **APIs are the new glue** | Everything connects, nothing siloed |
+| 🚀 | **Ship to production, iterate fast** | Real systems, real feedback |
 
 </div>
 
 ---
 
-## 📡 OPEN CHANNEL
+## 📡 CONNECT
 
 <div align="center">
 
-<a href="https://github.com/kxma-blazi">
-  <img src="https://img.shields.io/badge/GITHUB_COMMAND_CENTER-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kxma-blazi&style=for-the-badge&color=FF0000&label=SYSTEMS+ACCESSED)
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+[![GitHub](https://img.shields.io/badge/GitHub-kxma--blazi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/kxma-blazi)
+[![Email](https://img.shields.io/badge/Email-okumakung2018-38bdf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:okumakung2018@gmail.com)
+[![LINE](https://img.shields.io/badge/LINE-kingkumaallday-06C755?style=for-the-badge&logo=line&logoColor=white&labelColor=0f172a)](https://line.me/ti/p/~kingkumaallday)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-34d399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://kxma-blazi.github.io)
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:0d0d0d&height=120&section=footer&text=Turning+AI+into+real-world+automation.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:020617&height=130&section=footer&text=Turning+AI+into+real-world+systems.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
