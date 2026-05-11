@@ -139,7 +139,7 @@ status     : 🟢 Available for opportunities
 </picture>
 </div>
 
-> **หมายเหตุ:** Snake animation ต้องตั้งค่า GitHub Actions ก่อนถึงจะแสดงผล — ดูวิธีด้านล่าง
+> 
 
 ---
 
