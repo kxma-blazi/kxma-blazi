@@ -166,7 +166,7 @@ status     : 🟢 Available for opportunities
 [![GitHub](https://img.shields.io/badge/GitHub-kxma--blazi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/kxma-blazi)
 [![Email](https://img.shields.io/badge/Email-okumakung2018-38bdf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:okumakung2018@gmail.com)
 [![LINE](https://img.shields.io/badge/LINE-kingkumaallday-06C755?style=for-the-badge&logo=line&logoColor=white&labelColor=0f172a)](https://line.me/ti/p/~kingkumaallday)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-34d399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://kxma-blazi.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-34d399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://kxma-blazi.github.io/portfolio/)
 
 </div>
 
