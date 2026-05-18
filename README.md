@@ -20,7 +20,7 @@
 name     : Saharat Intavira (สหรัถ อินต๊ะวิรา)
 alias    : kxma-blazi
 location : Thailand 🇹🇭
-role     : Full-Stack Developer & AI Automation Engineer
+role     : IT & AI Automation Engineer
 
 stack:
   scripting  : [ JavaScript, Google Apps Script, Python, Bash ]
