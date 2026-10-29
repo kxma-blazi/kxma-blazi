@@ -17,7 +17,7 @@
 ## 🎨 System Hero Banner
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kxma-blazi/kxma-blazi/main/dark.svg?v=2" alt="Saharat Intavira Profile Hero Banner" width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,50:07111f,100:030712&height=280&section=header&text=SAHARAT+INTAVIRA&fontSize=42&fontColor=38bdf8&fontAlignY=35&desc=IT+Support+Specialist+%7C+AI+Automation+%7C+System+Developer&descSize=16&descAlignY=65&descColor=94a3b8&stroke=38bdf8&strokeWidth=2"/>
 </p>
 
 ---
