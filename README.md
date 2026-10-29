@@ -92,10 +92,12 @@ status     : 🟢 Available for opportunities
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kxma-blazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=e2e8f0&ring_color=0ea5e9" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxma-blazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e2e8f0&langs_count=6" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kxma-blazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=e2e8f0&ring_color=0ea5e9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxma-blazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e2e8f0&langs_count=6" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kxma-blazi&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=475569" height="155"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kxma-blazi&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=475569" width="100%" />
 
 </div>
 
