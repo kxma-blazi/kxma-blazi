@@ -75,7 +75,7 @@
       <text x="16" y="60" class="mono" font-size="11" fill="#94a3b8">> Name     : <tspan fill="#f8fafc">Saharat Intavira</tspan></text>
       <text x="16" y="85" class="mono" font-size="11" fill="#94a3b8">> Alias    : <tspan fill="#38bdf8">kxma-blazi</tspan></text>
       <text x="16" y="110" class="mono" font-size="11" fill="#94a3b8">> Location : <tspan fill="#f8fafc">Bangkok, Thailand</tspan></text>
-      <text x="16" y="135" class="mono" font-size="11" fill="#94a3b8">> Focus    : <tspan fill="#10b981">AI Automation & Infra</tspan></text>
+      <text x="16" y="135" class="mono" font-size="11" fill="#94a3b8">> Focus    : <tspan fill="#10b981">AI Automation and Infra</tspan></text>
       <rect x="16" y="150" width="8" height="14" fill="#38bdf8" class="pulse" />
       <text x="30" y="162" class="mono" font-size="11" fill="#64748b">_</text>
     </g>
@@ -83,7 +83,7 @@
   <g transform="translate(472, 32)">
     <rect width="676" height="546" rx="16" fill="url(#glass-dark)" stroke="#334155" stroke-width="1" filter="url(#shadow)" />
     <path d="M 0 16 C 0 7.16 7.16 0 16 0 L 660 0 C 668.84 0 676 7.16 676 16 L 676 44 L 0 44 Z" fill="#0f172a" stroke="#334155" stroke-width="1" />
-    <text x="24" y="27" class="mono" font-size="12" fill="#38bdf8" font-weight="600">SYSTEM.INFO // ARCHITECTURE & STACK</text>
+    <text x="24" y="27" class="mono" font-size="12" fill="#38bdf8" font-weight="600">SYSTEM.INFO // ARCHITECTURE AND STACK</text>
     <text x="640" y="27" text-anchor="end" class="mono" font-size="11" fill="#64748b">[ v2.6 ]</text>
     <g transform="translate(28, 64)">
       <text x="0" y="32" class="main-title">Saharat Intavira</text>
