@@ -17,11 +17,7 @@
 ## 🎨 System Hero Banner
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Saharat Intavira Profile Hero Banner" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kxma-blazi/kxma-blazi/main/dark.svg" alt="Saharat Intavira Profile Hero Banner" width="100%">
 </p>
 
 ---
