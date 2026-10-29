@@ -1,93 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Saharat Intavira - Full-Stack Developer &amp; AI Automation Specialist">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Saharat Intavira - Full-Stack Developer and AI Automation Specialist">
   <defs>
-    <!-- Background Gradient -->
     <radialGradient id="dark-bg" cx="15%" cy="15%" r="85%" fx="15%" fy="15%">
       <stop offset="0%" stop-color="#0b1220" />
       <stop offset="50%" stop-color="#07111f" />
       <stop offset="100%" stop-color="#030712" />
     </radialGradient>
-
-    <!-- Glass Panel Fill -->
     <linearGradient id="glass-dark" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#1e293b" stop-opacity="0.45" />
       <stop offset="100%" stop-color="#0f172a" stop-opacity="0.25" />
     </linearGradient>
-
-    <!-- Accent Gradients -->
-    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="100%" stop-color="#0ea5e9" />
-    </linearGradient>
-
     <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6" />
       <stop offset="50%" stop-color="#1e293b" stop-opacity="0.2" />
       <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.4" />
     </linearGradient>
-
-    <!-- Scanline Pattern -->
     <pattern id="scanlines" width="1180" height="4" patternUnits="userSpaceOnUse">
       <line x1="0" y1="2" x2="1180" y2="2" stroke="#000000" stroke-opacity="0.15" stroke-width="1" />
     </pattern>
-
-    <!-- Card Shadow -->
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
       <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000000" flood-opacity="0.5" />
     </filter>
-
-    <!-- Native System Fonts (Safe for GitHub) -->
     <style>
-      .main-title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; font-weight: 700; fill: #f8fafc; font-size: 32px; letter-spacing: -0.5px; }
-      .headline { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; font-weight: 500; fill: #38bdf8; font-size: 14px; }
-      .label { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; font-weight: 500; fill: #94a3b8; font-size: 12px; letter-spacing: 0.5px; }
-      .value { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; font-weight: 400; fill: #f8fafc; font-size: 13px; }
-      .mono { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; }
-      .ascii-art { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; font-size: 9.5px; fill: #38bdf8; font-weight: 700; line-height: 1; opacity: 0.85; }
-      .badge-text { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; font-size: 11px; font-weight: 500; fill: #e2e8f0; }
-      
-      @keyframes pulse-dot {
-        0%, 100% { opacity: 1; transform: scale(1); }
-        50% { opacity: 0.4; transform: scale(0.85); }
-      }
+      .main-title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; fill: #f8fafc; font-size: 32px; letter-spacing: -0.5px; }
+      .headline { font-family: monospace; font-weight: 500; fill: #38bdf8; font-size: 14px; }
+      .label { font-family: monospace; font-weight: 500; fill: #94a3b8; font-size: 12px; letter-spacing: 0.5px; }
+      .value { font-family: monospace; font-weight: 400; fill: #f8fafc; font-size: 13px; }
+      .mono { font-family: monospace; }
+      .ascii-art { font-family: monospace; font-size: 9.5px; fill: #38bdf8; font-weight: 700; line-height: 1; opacity: 0.85; }
+      .badge-text { font-family: monospace; font-size: 11px; font-weight: 500; fill: #e2e8f0; }
+      @keyframes pulse-dot { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.85); } }
       .pulse { animation: pulse-dot 2s infinite ease-in-out; transform-origin: center; }
-      
-      @keyframes float-badge {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-4px); }
-      }
+      @keyframes float-badge { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-4px); } }
       .float { animation: float-badge 4s infinite ease-in-out; }
     </style>
   </defs>
-
-  <!-- Canvas Background -->
   <rect width="1180" height="610" rx="24" fill="url(#dark-bg)" />
-  
-  <!-- Subtle Grid Overlay -->
   <g stroke="#38bdf8" stroke-opacity="0.03" stroke-width="1">
     <path d="M0 100h1180M0 200h1180M0 300h1180M0 400h1180M0 500h1180" />
     <path d="M200 0v610M450 0v610M700 0v610M950 0v610" />
   </g>
-
-  <!-- Scanlines -->
   <rect width="1180" height="610" rx="24" fill="url(#scanlines)" pointer-events="none" />
-
-  <!-- Outer Border Frame -->
   <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="url(#border-glow)" stroke-width="1.5" filter="url(#shadow)" />
-
-  <!-- ================= LEFT COLUMN: VISUAL / IDENTITY ================= -->
   <g transform="translate(32, 32)">
     <rect width="416" height="546" rx="16" fill="url(#glass-dark)" stroke="#334155" stroke-width="1" filter="url(#shadow)" />
-    
     <path d="M 0 16 C 0 7.16 7.16 0 16 0 L 400 0 C 408.84 0 416 7.16 416 16 L 416 44 L 0 44 Z" fill="#0f172a" stroke="#334155" stroke-width="1" />
     <circle cx="24" cy="22" r="6" fill="#ef4444" />
     <circle cx="44" cy="22" r="6" fill="#f59e0b" />
     <circle cx="64" cy="22" r="6" fill="#22c55e" />
     <text x="208" y="26" text-anchor="middle" class="label" fill="#64748b">kxma-blazi@terminal:~</text>
     <circle class="pulse" cx="386" cy="22" r="4" fill="#22c55e" />
-
     <g transform="translate(24, 68)">
       <rect width="368" height="260" rx="10" fill="#030712" fill-opacity="0.6" stroke="#1e293b" stroke-width="1" />
-      
       <text x="184" y="24" text-anchor="middle" class="ascii-art" font-size="10.5">
         <tspan x="184" dy="0">       ███████████████████       </tspan>
         <tspan x="184" dy="13">     ███▓▓▒▒░░░      ░░░▒▒▓▓███     </tspan>
@@ -100,89 +63,68 @@
         <tspan x="184" dy="13">     ███▓▓▒▒░░░░░░░▒▒▓▓███     </tspan>
         <tspan x="184" dy="13">       ███████████████████       </tspan>
       </text>
-
       <g transform="translate(104, 216)">
         <rect width="160" height="26" rx="13" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.5" />
         <circle class="pulse" cx="18" cy="13" r="4" fill="#22c55e" />
         <text x="32" y="17" class="mono" font-size="11" fill="#38bdf8" font-weight="600">NODE: ONLINE</text>
       </g>
     </g>
-
     <g transform="translate(24, 344)">
       <rect width="368" height="178" rx="10" fill="#090d16" stroke="#1e293b" stroke-width="1" />
       <text x="16" y="30" class="mono" font-size="12" fill="#64748b">~/core $ <tspan fill="#38bdf8">init_profile.sh</tspan></text>
       <text x="16" y="60" class="mono" font-size="11" fill="#94a3b8">> Name     : <tspan fill="#f8fafc">Saharat Intavira</tspan></text>
       <text x="16" y="85" class="mono" font-size="11" fill="#94a3b8">> Alias    : <tspan fill="#38bdf8">kxma-blazi</tspan></text>
-      <text x="16" y="110" class="mono" font-size="11" fill="#94a3b8">> Location : <tspan fill="#f8fafc">Bangkok, Thailand 🇹🇭</tspan></text>
+      <text x="16" y="110" class="mono" font-size="11" fill="#94a3b8">> Location : <tspan fill="#f8fafc">Bangkok, Thailand</tspan></text>
       <text x="16" y="135" class="mono" font-size="11" fill="#94a3b8">> Focus    : <tspan fill="#10b981">AI Automation & Infra</tspan></text>
-      
       <rect x="16" y="150" width="8" height="14" fill="#38bdf8" class="pulse" />
       <text x="30" y="162" class="mono" font-size="11" fill="#64748b">_</text>
     </g>
   </g>
-
-  <!-- ================= RIGHT COLUMN: SYSTEM.INFO ================= -->
   <g transform="translate(472, 32)">
     <rect width="676" height="546" rx="16" fill="url(#glass-dark)" stroke="#334155" stroke-width="1" filter="url(#shadow)" />
-    
     <path d="M 0 16 C 0 7.16 7.16 0 16 0 L 660 0 C 668.84 0 676 7.16 676 16 L 676 44 L 0 44 Z" fill="#0f172a" stroke="#334155" stroke-width="1" />
     <text x="24" y="27" class="mono" font-size="12" fill="#38bdf8" font-weight="600">SYSTEM.INFO // ARCHITECTURE & STACK</text>
     <text x="640" y="27" text-anchor="end" class="mono" font-size="11" fill="#64748b">[ v2.6 ]</text>
-
     <g transform="translate(28, 64)">
       <text x="0" y="32" class="main-title">Saharat Intavira</text>
-      <text x="0" y="58" class="headline">Full-Stack Developer · AI Automation Specialist</text>
-
+      <text x="0" y="58" class="headline">Full-Stack Developer / AI Automation Specialist</text>
       <line x1="0" y1="76" x2="620" y2="76" stroke="#1e293b" stroke-width="1" />
-
       <g transform="translate(0, 96)">
         <text x="0" y="18" class="label">ROLE</text>
         <text x="130" y="18" class="value">IT Support Specialist & System Developer</text>
-
         <text x="0" y="48" class="label">COMPANY</text>
         <text x="130" y="48" class="value">BTT (Best Technology Team / BTT United)</text>
-
         <text x="0" y="78" class="label">INFRASTRUCTURE</text>
         <text x="130" y="78" class="value">Docker, n8n, Ubuntu Server, Nginx, Cloudflare</text>
-
         <text x="0" y="108" class="label">TECH STACK</text>
         <text x="130" y="108" class="value">JavaScript, Google Apps Script, Python, Bash</text>
-
         <text x="0" y="138" class="label">AI & LLM</text>
         <text x="130" y="138" class="value">Groq API, OpenAI, Gemini, Telegram Bot API</text>
       </g>
-
       <line x1="0" y1="262" x2="620" y2="262" stroke="#1e293b" stroke-width="1" />
-
       <g transform="translate(0, 284)">
         <text x="0" y="14" class="label" fill="#38bdf8">FEATURED MODULES:</text>
-
         <g transform="translate(0, 28)" class="float">
           <rect width="115" height="30" rx="6" fill="#0f172a" stroke="#0ea5e9" stroke-width="1" />
           <text x="57.5" y="19" text-anchor="middle" class="badge-text" fill="#38bdf8">JavaScript</text>
         </g>
-
         <g transform="translate(123, 28)" class="float" style="animation-delay: 0.5s;">
           <rect width="145" height="30" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="1" />
           <text x="72.5" y="19" text-anchor="middle" class="badge-text" fill="#34d399">Google Apps Script</text>
         </g>
-
         <g transform="translate(276, 28)" class="float" style="animation-delay: 1s;">
           <rect width="90" height="30" rx="6" fill="#0f172a" stroke="#2496ed" stroke-width="1" />
           <text x="45" y="19" text-anchor="middle" class="badge-text" fill="#60a5fa">Docker</text>
         </g>
-
         <g transform="translate(374, 28)" class="float" style="animation-delay: 1.5s;">
           <rect width="80" height="30" rx="6" fill="#0f172a" stroke="#ea4b71" stroke-width="1" />
           <text x="40" y="19" text-anchor="middle" class="badge-text" fill="#fb7185">n8n</text>
         </g>
-
         <g transform="translate(462, 28)" class="float" style="animation-delay: 2s;">
           <rect width="115" height="30" rx="6" fill="#0f172a" stroke="#8b5cf6" stroke-width="1" />
           <text x="57.5" y="19" text-anchor="middle" class="badge-text" fill="#a78bfa">Groq AI API</text>
         </g>
       </g>
-
       <g transform="translate(0, 410)">
         <rect width="620" height="36" rx="8" fill="#030712" fill-opacity="0.5" stroke="#1e293b" stroke-width="1" />
         <text x="16" y="23" class="mono" font-size="11" fill="#64748b">status: <tspan fill="#22c55e">READY FOR DEPLOYMENT</tspan></text>
