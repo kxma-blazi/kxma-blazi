@@ -92,17 +92,16 @@ status     : 🟢 Available for opportunities
 
 <div align="center">
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kxma-blazi&theme=tokyonight" alt="GitHub Stats Card" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kxma-blazi&theme=tokyonight" alt="Repos Per Language" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kxma-blazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=e2e8f0&ring_color=0ea5e9&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxma-blazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e2e8f0&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kxma-blazi&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=475569" alt="GitHub Streak" width="100%" />
 </p>
 
 </div>
-
 ---
 
 ## 🐍 CONTRIBUTION MATRIX
