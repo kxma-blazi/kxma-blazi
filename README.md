@@ -43,9 +43,7 @@
   <img src="https://www.gitskins.com/api/section/social?username=kxma-blazi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F108455666%3Fu%3D1c11e8fabdabb23104c3bf408ca098731e0e63af%26v%3D4" alt="kxma-blazi social visual" />
 </p>
 
-<a href="https://github.com/kxma-blazi">GitHub</a>
 
-<p align="center"><sub>kxma-blazi · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 <!-- gitskins:architecture -->
 ### How [btt-Equipment](https://github.com/kxma-blazi/btt-Equipment) works
@@ -56,6 +54,3 @@ BTT Field Tool is a Google Apps Script web app backed by Google Sheets for track
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=kxma-blazi&amp;repo=btt-Equipment&amp;theme=dark&amp;v=1794195751999">
   <img alt="Architecture diagram of kxma-blazi/btt-Equipment" src="https://www.gitskins.com/api/repo-diagram/image?owner=kxma-blazi&amp;repo=btt-Equipment&amp;theme=light&amp;v=1794195751999">
 </picture></a>
-
-<sub>Drawn from the code by <a href="https://www.gitskins.com">GitSkins</a></sub>
-<!-- /gitskins:architecture -->
